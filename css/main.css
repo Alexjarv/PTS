@@ -4,7 +4,6 @@
 
 body {
   font-family: Arial;
-	
   background: #f1f1f1;
 }
 
@@ -13,7 +12,6 @@ body {
   padding: 30px;
   text-align: center;
   background: white;
-	
 }
 
 .header h1 {
@@ -45,6 +43,10 @@ body {
 }
 
 /* Create two unequal columns that floats next to each other */
+.row {
+  padding: 10px;
+}
+
 /* Left column */
 .leftcolumn {   
   display: block;
